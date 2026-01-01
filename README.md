@@ -8,7 +8,7 @@ A cozy, winter-themed productivity dashboard designed to help students and creat
 
 ---
 
-## 🔗 Live Demo : https://cozy-snow-tasks.lovable.app/
+## 🔗 Live Demo : https://cozy-snow-tasks.lovable.app
 
 ## ✨ Features
 
